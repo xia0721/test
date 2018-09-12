@@ -1,0 +1,1 @@
+https://github.com/robotology/wysiwyd/tree/master/main/src/modules/kinematicStructureLearning/matlabModuleKS
